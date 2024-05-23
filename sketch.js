@@ -44,7 +44,7 @@ function setup() {
 }
 
 function draw() {
-  background(255, 27, 94);
+  background(0);
   mostraBolinha();
   movimentaBolinha();
   verificaColisaoBorda();
